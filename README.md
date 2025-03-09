@@ -39,10 +39,7 @@ see  Below
 
 ### Connect with me:
 
-<p align="left">
-<a href="your-linkedin-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="your-twitter-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-</p>
+--Eamil : kalebademkish@gamil.com
 
 ---
 
