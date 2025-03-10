@@ -32,7 +32,7 @@
 - **MySQL (Optimization, transactions, database design)** ⭐⭐⭐⭐ 90%  
 - **MongoDB (NoSQL, scalable applications)** ⭐⭐⭐ 75%  
 - **Docker & Containerization** ⭐⭐⭐ 75%  
-- **Ubuntu (Customization, automation, UI/UX theming)** ⭐⭐⭐⭐ 95%  
+- **Ubuntu** ⭐⭐⭐⭐ 95%  
 
 ### **Real-Time Communication & Automation**  
 - **Server-Sent Events (SSE) for live updates** ⭐⭐⭐⭐ 95%  
