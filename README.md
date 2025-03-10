@@ -1,48 +1,63 @@
-### Hi there 👋
 
-<!--
-**IncalaCode/incalacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# 🚀 Kaleb Adem | Full-Stack & AI Developer  
 
-## I'm a Full Stack Developer and Creative Coder 🚀
-
-- 🔭 I'm currently working on innovative web applications and creative coding projects
-- 🌱 I'm currently learning Three.js and WebGL for creative web experiences
-- 👯 I'm looking to collaborate on open-source projects and creative coding initiatives
-- 💬 Ask me about React, Three.js, Creative Coding, and Web Development
-- 📫 How to reach me: [LinkedIn](your-linkedin-url) | [Portfolio](your-portfolio-url)
-- ⚡ Fun fact: I love combining art and technology to create unique digital experiences
-
-### Languages and Tools:
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
-
-### My GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=incalacode&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=incalacode&theme=radical" alt="GitHub Streak" />
-</p>
-
-### Recent Projects:
-
-see  Below
-
-### Connect with me:
-
---Eamil : kalebademkish@gamil.com
+**🌍 Welcome to my GitHub!** I'm **Kaleb Adem**, a passionate **full-stack developer** specializing in **React, Flutter, Laravel, and AI** technologies. I love building **real-time applications, AI-powered solutions, and immersive UI experiences**. From ride-sharing platforms to **NLP-powered document processors** and **developer automation tools**, my projects focus on performance, innovation, and seamless user experience.  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=incalacode&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 💡 What You Can Expect  
+
+✅ **Open-source contributions & cutting-edge projects**  
+✅ **AI-powered applications using NLP.js & Brain.js**  
+✅ **Scalable & optimized backend systems**  
+✅ **Interactive React & Flutter UI/UX with 3D elements**  
+✅ **Performance-driven solutions for real-time data**  
+
+---
+
+## 🛠️ Tech Stack & Skills  
+
+### **Frontend Development**  
+- **React.js (Vite, TailwindCSS, React Router, Zustand, Three.js, @react-three/fiber, @react-three/drei)** ⭐⭐⭐⭐ 95%  
+- **Flutter (Dart, Provider, shared_preferences, animations)** ⭐⭐⭐⭐ 90%  
+- **WebGL & 3D (Three.js, @react-three/fiber, interactive UI)** ⭐⭐⭐ 80%  
+
+### **Backend Development**  
+- **Laravel (PHP, MySQL, REST API, cPanel, XAMPP)** ⭐⭐⭐⭐ 95%  
+- **Django (Python, REST Framework, authentication, SSE)** ⭐⭐⭐⭐ 90%  
+- **FastAPI (Python, lightweight API development)** ⭐⭐⭐ 80%  
+- **Node.js (Express, WebSockets, SSE, real-time processing)** ⭐⭐⭐ 80%  
+
+### **AI & Machine Learning**  
+- **Brain.js (Neural Networks, AI-powered systems)** ⭐⭐⭐⭐ 85%  
+- **NLP.js (Natural Language Processing, document processing)** ⭐⭐⭐ 80%  
+
+### **Database Management**  
+- **MySQL (Database design, optimization, transactions)** ⭐⭐⭐⭐ 90%  
+- **MongoDB (NoSQL, real-time apps, scalability)** ⭐⭐⭐ 75%  
+
+### **Real-Time Communication**  
+- **Server-Sent Events (SSE) for instant data updates** ⭐⭐⭐⭐ 95%  
+- **WebSockets for real-time interactions** ⭐⭐⭐ 85%  
+
+### **System & DevOps**  
+- **Ubuntu (System customization, automation, UI/UX theming)** ⭐⭐⭐⭐ 95%  
+- **cPanel & Server Management** ⭐⭐⭐ 80%  
+- **Docker & Containerization** ⭐⭐⭐ 75%  
+
+---
+
+## 📊 GitHub Stats  
+
+![Kaleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalebAdem&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalebAdem&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+🔗 **Portfolio:** [Coming Soon]  
+📧 **Email:** kalebademkisho@gmail.com  
+
+---
+
+### 🚀 Let’s Build Something Awesome! 
