@@ -1,5 +1,5 @@
 
-# 🚀 Kaleb Adem | Full-Stack & AI Developer  
+# 🚀 Kaleb Adem | Full-Stack & Ai-Agent Developer  
 
 **🌍 Welcome to my GitHub!** I'm **Kaleb Adem**, a passionate **full-stack developer** in **React, Flutter, Laravel, and AI** technologies. I love building **real-time applications, AI-powered solutions, and immersive UI experiences**. From ride-sharing platforms to **NLP-powered document processors** and **developer automation tools**, my projects focus on performance, innovation, and seamless user experience.  
 
@@ -29,8 +29,8 @@
 - **Node.js (Express, WebSockets, SSE, real-time processing)** ⭐⭐⭐ 80%  
 
 ### **AI & Machine Learning**  
-- **Brain.js (Neural Networks, AI-powered systems)** ⭐⭐⭐⭐ 85%  
-- **NLP.js (Natural Language Processing, document processing)** ⭐⭐⭐ 80%  
+- **Brain.js (Neural Networks)** ⭐⭐⭐⭐ 75%  
+- **NLP.js (Natural Language Processing, document processing)** ⭐⭐⭐ 70%  
 
 ### **Database Management**  
 - **MySQL (Database design, optimization, transactions)** ⭐⭐⭐⭐ 90%  
