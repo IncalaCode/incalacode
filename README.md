@@ -49,8 +49,8 @@
 
 ## 📊 GitHub Stats  
 
-![Kaleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalebAdem&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KalebAdem&layout=compact&theme=radical)  
+![Kaleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<kaleb adem kisho>&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<kaleb adem kisho>&layout=compact&theme=radical)  
 
 ---
 
