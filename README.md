@@ -1,7 +1,7 @@
 
 # 🚀 Kaleb Adem | Full-Stack & AI Developer  
 
-**🌍 Welcome to my GitHub!** I'm **Kaleb Adem**, a passionate **full-stack developer** specializing in **React, Flutter, Laravel, and AI** technologies. I love building **real-time applications, AI-powered solutions, and immersive UI experiences**. From ride-sharing platforms to **NLP-powered document processors** and **developer automation tools**, my projects focus on performance, innovation, and seamless user experience.  
+**🌍 Welcome to my GitHub!** I'm **Kaleb Adem**, a passionate **full-stack developer** in **React, Flutter, Laravel, and AI** technologies. I love building **real-time applications, AI-powered solutions, and immersive UI experiences**. From ride-sharing platforms to **NLP-powered document processors** and **developer automation tools**, my projects focus on performance, innovation, and seamless user experience.  
 
 ---
 
