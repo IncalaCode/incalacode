@@ -1,6 +1,6 @@
 # 🚀 **Kaleb Adem | Full-Stack & Smart Agent Developer**  
 
-**🌍 Welcome to my GitHub!** I'm **Kaleb Adem**, a passionate **full-stack developer** specializing in **React, Flutter, Laravel, Django, and smart automation technologies**. I love creating **real-time applications, automation tools, and interactive UI experiences** that push the boundaries of innovation.  
+**🌍 Welcome to my GitHub!** I'm **Kaleb Adem**, a passionate **full-stack developer**  in **React, Flutter, Laravel, Django, and smart automation technologies**. I love creating **real-time applications, automation tools, and interactive UI experiences** that push the boundaries of innovation.  
 
 ### **💡 What You Can Expect Here:**  
 ✔️ **Open-source contributions & cutting-edge projects**  
