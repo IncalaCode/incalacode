@@ -18,9 +18,9 @@
 ## 🛠️ Tech Stack & Skills  
 
 ### **Frontend Development**  
-- **React.js (Vite, TailwindCSS, React Router, Zustand, Three.js, @react-three/fiber, @react-three/drei)** ⭐⭐⭐⭐ 95%  
-- **Flutter (Dart, Provider, shared_preferences, animations)** ⭐⭐⭐⭐ 90%  
-- **WebGL & 3D (Three.js, @react-three/fiber, interactive UI)** ⭐⭐⭐ 80%  
+- **React.js ⭐⭐⭐⭐ 95%  
+- **Flutter ⭐⭐⭐⭐ 90%  
+- **WebGL & 3D ⭐⭐⭐ 80%  
 
 ### **Backend Development**  
 - **Laravel (PHP, MySQL, REST API, cPanel, XAMPP)** ⭐⭐⭐⭐ 95%  
