@@ -1,61 +1,55 @@
+# 🚀 **Kaleb Adem | Full-Stack & Smart Agent Developer**  
 
-# 🚀 Kaleb Adem | Full-Stack & Ai-Agent Developer  
+**🌍 Welcome to my GitHub!** I'm **Kaleb Adem**, a passionate **full-stack developer** specializing in **React, Flutter, Laravel, Django, and smart automation technologies**. I love creating **real-time applications, automation tools, and interactive UI experiences** that push the boundaries of innovation.  
 
-**🌍 Welcome to my GitHub!** I'm **Kaleb Adem**, a passionate **full-stack developer** in **React, Flutter, Laravel, and AI** technologies. I love building **real-time applications, AI-powered solutions, and immersive UI experiences**. From ride-sharing platforms to **NLP-powered document processors** and **developer automation tools**, my projects focus on performance, innovation, and seamless user experience.  
-
----
-
-## 💡 What You Can Expect  
-
-✅ **Open-source contributions & cutting-edge projects**  
-✅ **AI-powered applications using NLP.js & Brain.js**  
-✅ **Scalable & optimized backend systems**  
-✅ **Interactive React & Flutter UI/UX with 3D elements**  
-✅ **Performance-driven solutions for real-time data**  
+### **💡 What You Can Expect Here:**  
+✔️ **Open-source contributions & cutting-edge projects**  
+✔️ **Smart agent-driven applications using Brain.js & NLP.js**  
+✔️ **Scalable, high-performance backend systems**  
+✔️ **Interactive UI/UX with React, Flutter & WebGL**  
+✔️ **Real-time communication & automation solutions**  
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## **🛠️ Tech Stack & Skills**  
 
 ### **Frontend Development**  
-- **React.js ⭐⭐⭐⭐ 95%  
-- **Flutter ⭐⭐⭐⭐ 90%  
-- **WebGL & 3D ⭐⭐⭐ 80%  
+- **React.js** ⭐⭐⭐⭐ 95%  
+- **Flutter** ⭐⭐⭐⭐ 90%  
+- **WebGL & 3D (Three.js, @react-three/fiber)** ⭐⭐⭐ 80%  
 
 ### **Backend Development**  
 - **Laravel (PHP, MySQL, REST API, cPanel, XAMPP)** ⭐⭐⭐⭐ 95%  
-- **Django (Python, REST Framework, authentication, SSE)** ⭐⭐⭐⭐ 90%  
-- **FastAPI (Python, lightweight API development)** ⭐⭐⭐ 80%  
-- **Node.js (Express, WebSockets, SSE, real-time processing)** ⭐⭐⭐ 80%  
+- **Django (Python, DRF, authentication, SSE)** ⭐⭐⭐⭐ 90%  
+- **FastAPI (Lightweight API development)** ⭐⭐⭐ 80%  
+- **Node.js (Express, WebSockets, real-time processing)** ⭐⭐⭐ 80%  
 
-### **AI & Machine Learning**  
-- **Brain.js (Neural Networks)** ⭐⭐⭐⭐ 75%  
-- **NLP.js (Natural Language Processing, document processing)** ⭐⭐⭐ 70%  
+### **Smart Agents & Automation**  
+- **Brain.js (Neural Networks, automation tools)** ⭐⭐⭐⭐ 75%  
+- **NLP.js (Natural Language Processing, document automation)** ⭐⭐⭐ 70%  
 
-### **Database Management**  
-- **MySQL (Database design, optimization, transactions)** ⭐⭐⭐⭐ 90%  
-- **MongoDB (NoSQL, real-time apps, scalability)** ⭐⭐⭐ 75%  
+### **Database & DevOps**  
+- **MySQL (Optimization, transactions, database design)** ⭐⭐⭐⭐ 90%  
+- **MongoDB (NoSQL, scalable applications)** ⭐⭐⭐ 75%  
+- **Docker & Containerization** ⭐⭐⭐ 75%  
+- **Ubuntu (Customization, automation, UI/UX theming)** ⭐⭐⭐⭐ 95%  
 
-### **Real-Time Communication**  
-- **Server-Sent Events (SSE) for instant data updates** ⭐⭐⭐⭐ 95%  
+### **Real-Time Communication & Automation**  
+- **Server-Sent Events (SSE) for live updates** ⭐⭐⭐⭐ 95%  
 - **WebSockets for real-time interactions** ⭐⭐⭐ 85%  
 
-### **System & DevOps**  
-- **Ubuntu (System customization, automation, UI/UX theming)** ⭐⭐⭐⭐ 95%  
-- **cPanel & Server Management** ⭐⭐⭐ 80%  
-- **Docker & Containerization** ⭐⭐⭐ 75%  
-
 ---
 
-## 📊 GitHub Stats  
+## **📊 GitHub Stats**  
 
 ![Kaleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=incalacode&show_icons=true&theme=radical)  
+
 ---
 
-## 📫 Connect With Me  
+## **📫 Connect With Me**  
 🔗 **Portfolio:** [Coming Soon]  
 📧 **Email:** kalebademkisho@gmail.com  
 
 ---
 
-### 🚀 Let’s Build Something Awesome! 
+###  Let’s Build Something Awesome!  -L
