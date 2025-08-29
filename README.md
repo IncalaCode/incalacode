@@ -16,7 +16,7 @@ I'm Kaleb Adem, a passionate full-stack developer experienced in React, Flutter,
 
 ### 🚀 What I'm Working On
 
-- 🔭 Developing an **Institutional Repository System**  
+- 🔭 Developing an **My own  full stack framework for easy to start with complete securty**  
 - 🌱 Learning about **Machine Learning** and **AI Agents**  
 - 👯 Looking to collaborate on a **Node.js Admin Panel with full functionality**  
 - 👨‍💻 Portfolio: [mrkaleb.netlify.app](https://mrkaleb.netlify.app)  
